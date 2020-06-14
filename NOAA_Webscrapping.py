@@ -16,11 +16,8 @@ from bs4 import BeautifulSoup
 
 # add the access token you got from NOAA
 Token = 'cnlrSvGHZSQIfiwenhDmDGFdsPAwHemn'
+station_id = 'GHCND:USW00013958' # # Station Id
 
-# Long Beach Airport station
-station_id = 'GHCND:USW00013958'
-
-# initialize lists to store data
 dates_temp = []
 dates_prcp = []
 temps = []
