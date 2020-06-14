@@ -30,7 +30,12 @@ So, the next best metric would be New Percentage Positive (NPP) which represents
 Below are our observations: 
 
 ![](https://github.com/rathodmansi/Covid19-Hackathon/blob/master/results/Scatter-Avgs.png)
+
+<b> Pearson Coefficient:</b> -0.6175
+
 ![](https://github.com/rathodmansi/Covid19-Hackathon/blob/master/results/Scatter.png)
+
+<b> Pearson Coefficient:</b> -0.4602
 
 
 ## Conclusion & Possible Explanations
